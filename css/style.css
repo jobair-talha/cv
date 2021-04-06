@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+}
+/* ===============================
+    Header part start
+=================================== */
+#header-part{
+    padding-top: 20px;
+}
+#header-part .img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    overflow: hidden;
+}
+#header-part .img img{
+    width: 100%;
+}
+#header-part h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    font-size: 42px;
+    color: #009688;
+    margin-top: 5px;
+}
+#header-part h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: #000;
+    margin-top: 20px;
+    letter-spacing: 3px;
+}
+#header-part h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #212121;
+}
+#header-part .item{
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+#header-part .item .icon i{
+    margin-right: 15px;
+    color: #009688;
+    font-size: 16px;
+}
+#header-part .item .text{
+    color: #212121;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.border{
+    margin-top: 30px;
+    height: 2px;
+    background: #f1f1f1;
+}
+/* ===============================
+    Header part end
+=================================== */
+/* ===============================
+    Objective part start
+=================================== */
+#objective-part{
+    padding: 20px 0;
+}
+#objective-part h3{
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: #009688;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #009688;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+#objective-part p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #212121;
+    line-height: 24px;
+}
+#objective-part h4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 5px;
+}
+#objective-part h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #212121;
+    line-height: 24px;
+}
+#objective-part .item{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#objective-part .item .main{
+    display: flex;
+    justify-content: space-between;
+    width: 330px;
+    margin-top: 15px;
+}
+#objective-part .item i{
+    font-size: 12px;
+    margin-left: 15px;
+    margin-right: 10px;
+    color: #009688;
+    margin-bottom: 10px;
+}
+#objective-part .item .port{
+    margin-left: 15px;
+}
+#objective-part .item .port i{
+    margin-left: 0;
+}
+/* ===============================
+    Objective part end
+=================================== */
+/* ===============================
+    Reference part start
+=================================== */
+#reference .item{
+    padding-bottom: 20px;
+}
+#reference h3{
+        font-family: 'Playfair Display', serif;
+        font-size: 28px;
+        font-weight: 700;
+        color: #009688;
+        text-transform: uppercase;
+        padding-bottom: 5px;
+        border-bottom: 1px solid #009688;
+        display: inline-block;
+        margin-bottom: 10px;
+}
+#reference .item h4{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #000;
+    margin-bottom: 10px;
+}
+#reference .item p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #212121;
+}
+/* ===============================
+    Reference part end
+=================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

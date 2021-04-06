@@ -1,0 +1,7 @@
+font-family: 'Playfair Display', serif;
+font-family: 'Open Sans', sans-serif;
+Regular 400
+Medium 500
+Semi-bold 600
+Bold 700
+Extra-bold 800
