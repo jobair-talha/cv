@@ -33,6 +33,9 @@ h1,h2,h3,h4,h5,h6,p{
 #header-part .img img{
     width: 100%;
 }
+#header-part .info{
+    padding-left: 40px;
+}
 #header-part h2{
     font-family: 'Playfair Display', serif;
     font-weight: 800;
@@ -86,7 +89,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 #objective-part h3{
     font-family: 'Playfair Display', serif;
-    font-size: 28px;
+    font-size: 26px;
     font-weight: 700;
     color: #009688;
     text-transform: uppercase;
