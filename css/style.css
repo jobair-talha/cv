@@ -128,7 +128,7 @@ h1,h2,h3,h4,h5,h6,p{
 #objective-part .item .main{
     display: flex;
     justify-content: space-between;
-    width: 330px;
+    width: 338px;
     margin-top: 15px;
 }
 #objective-part .item i{
@@ -191,7 +191,17 @@ footer a{
     position: fixed;
     top: 20px;
     right: 20px;
-
+    transition: all linear .4s;
+    -webkit-transition: all linear .4s;
+    -moz-transition: all linear .4s;
+    -ms-transition: all linear .4s;
+    -o-transition: all linear .4s;
+}
+footer a:hover{
+    color: snow;
+}
+footer a:visited{
+    color: blue;
 }
 /* ===============================
     Download part end
