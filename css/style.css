@@ -44,7 +44,7 @@ h1,h2,h3,h4,h5,h6,p{
     margin-top: 5px;
 }
 #header-part h3{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 28px;
     font-weight: 700;
     color: #000;
@@ -52,7 +52,7 @@ h1,h2,h3,h4,h5,h6,p{
     letter-spacing: 3px;
 }
 #header-part h4{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 22px;
     font-weight: 400;
     color: #212121;
@@ -69,7 +69,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 #header-part .item .text{
     color: #212121;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-weight: 400;
 }
@@ -99,21 +99,23 @@ h1,h2,h3,h4,h5,h6,p{
     margin-bottom: 10px;
 }
 #objective-part p{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: #212121;
     line-height: 24px;
 }
 #objective-part h4{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 22px;
     font-weight: 700;
     color: #000;
+    display: inline-block;
+    padding: 5px 2px;
     margin-bottom: 5px;
 }
 #objective-part h5{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: #212121;
@@ -170,13 +172,29 @@ h1,h2,h3,h4,h5,h6,p{
     margin-bottom: 10px;
 }
 #reference .item p{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #212121;
 }
 /* ===============================
     Reference part end
+=================================== */
+/* ===============================
+    Download part Start
+=================================== */
+footer a{
+    display: inline-block;
+    padding: 10px;
+    background: skyblue;
+    color: #fff;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+
+}
+/* ===============================
+    Download part end
 =================================== */
 
 
