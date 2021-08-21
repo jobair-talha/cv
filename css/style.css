@@ -100,7 +100,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 #objective-part p{
     font-family: 'Poppins', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
     color: #212121;
     line-height: 24px;
@@ -116,7 +116,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 #objective-part h5{
     font-family: 'Poppins', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
     color: #212121;
     line-height: 24px;
@@ -184,7 +184,7 @@ h1,h2,h3,h4,h5,h6,p{
     Download part Start
 =================================== */
 footer a{
-    display: inline-block;
+    display: none;
     padding: 10px;
     background: skyblue;
     color: #fff;
